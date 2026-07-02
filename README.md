@@ -24,4 +24,4 @@ I build end-to-end ML systems: from research-grade computer vision on satellite 
 
 ## 📫 Contact
 
-📧 aser.gharib@gmail.com, 💼 [LinkedIn](https://www.linkedin.com/in/AsserGharib)
+📧 aser.gharib@gmail.com, 💼 [LinkedIn](https://www.linkedin.com/in/asser-gharib-039710309)
