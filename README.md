@@ -4,6 +4,8 @@
 
 I build end-to-end ML systems: from research-grade computer vision on satellite imagery to multi-agent LLM apps, backed by solid software engineering (C#/.NET, Java, Flutter, distributed systems).
 
+**Currently seeking:** AI/ML engineering roles where deep learning meets production software.
+
 ## 🔭 Featured work
 
 | Project | What it shows |
